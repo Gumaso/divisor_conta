@@ -1,7 +1,0 @@
-Primeira etapa:
-    Nós vamos receber 5 inputs, os quais serão nossos amigos, e iremos adiciona-los em um dicionário
-    para que possamos posteriormente atualizar o valor de suas contas
-Objetivos:
-    Perguntar o número de participantes
-    Pegar o nome de cada parcipante
-    Armanezar seus nomes em um dicionario com os valores zerados
